@@ -1,6 +1,7 @@
 # Superstore Sales Dashboard (Excel Project)
 
-This project analyzes the Superstore dataset using Microsoft Excel.
+## Project Overview
+This project analyzes the Superstore dataset using Microsoft Excel to generate insights on sales and profit performance.
 
 ## Tools Used
 - Microsoft Excel
@@ -8,12 +9,15 @@ This project analyzes the Superstore dataset using Microsoft Excel.
 - Charts
 - Dashboard Design
 
-## Analysis Performed
-- Sales by Region
-- Profit by Category
-- Monthly Sales Trend
-- Sales by Segment
+## Key Insights
+- Sales distribution across regions
+- Profit analysis by category
+- Customer segment performance
+- Monthly sales trends
 
-## Sheets in the File
-1. Sample Store – Contains the dataset
-2. Dashboard – Contains charts and visualizations
+## Dashboard Preview
+![Dashboard](dashboard.png)
+
+## Files Included
+- Dataset (Sample Superstore)
+- Excel Dashboard File
